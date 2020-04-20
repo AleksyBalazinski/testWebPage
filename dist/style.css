@@ -1,0 +1,124 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 120px;
+    background-color: #e6e6e6;
+  }
+  
+  li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #3333ff;
+    color: white;
+  }
+  .center{ 
+    text-align: center;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/6/62/Starsinthesky.jpg");
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-shadow: 4px 4px #3333ff;
+    border: 5px solid #3333ff;
+  }
+  .pozycja{
+    position: absolute;
+    top: 50px;
+    left: 30px;
+  }
+  .margines{
+    margin-left: 200px;
+    margin-right: 200px;
+  }
+  .autor{
+    color:#3333ff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+  }
+  .center_logowanie
+  {
+      position:absolute;
+      width:800px;
+      height:650px;
+      left:50%;
+      top:50%;
+      margin-left:-200px;
+      margin-top:-200px;
+      border-radius: 25px;
+      border: 2px solid #3333ff;
+      background: #e6e6e6;
+      padding: 20px;
+      width: 260px;
+      height: 200px;
+  }
+  .gradient_logowanie
+  {
+      width: 15em;
+      border: 1px solid #333;
+      box-shadow: 8px 8px 5px #444; 
+      padding: 8px 12px;
+      color: #ffffff; 
+      background: rgb(2,0,36);
+      background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(23,23,180,1) 35%, rgba(0,212,255,1) 100%);
+  }
+  .gradient_rejestracja
+  {
+      width: 15em;
+      border: 1px solid #333;
+      box-shadow: 8px 8px 5px #444;
+      padding: 8px 12px;
+      color: #ffffff; 
+      background: rgb(2,0,36);
+      background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(23,23,180,1) 35%, rgba(0,212,255,1) 100%);
+  }
+  .center_rejestracja
+  {
+      position:absolute;
+      width:800px;
+      height:650px;
+      left:50%;
+      top:50%;
+      margin-left:-200px;
+      margin-top:-200px;
+      border-radius: 25px;
+      border: 2px solid #3333ff;
+      background: #e6e6e6;
+      padding: 20px;
+      width: 250px;
+      height: 300px;
+  }
+  .tworzenie_posta
+  {
+      position: absolute;
+      left:50%;
+      top:50%;
+      margin-left:-300px;
+      margin-top:-100px;
+      border-radius: 25px;
+      border: 2px solid #3333ff;
+      background: #e6e6e6;
+      padding: 20px;
+      width: 500px;
+      height: 300px;
+      
+  }
+  .powrot
+  {
+      position: absolute;
+      margin-left:20px;
+      margin-top:80px;  
+      display: block;
+      color: #000;
+      padding: 8px 16px;
+      text-decoration: none;   
+  }
+  .powrot:hover
+  {
+    background-color: #3333ff;
+    color: white;
+  }
